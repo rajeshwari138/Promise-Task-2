@@ -1,4 +1,3 @@
-
 let contentDiv =document.querySelector(".contentDiv")
 let content=document.createElement("div");
 content.setAttribute("class","content");
